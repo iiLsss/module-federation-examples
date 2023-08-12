@@ -3,7 +3,6 @@
 ## 项目启动
 
 1. 安装依赖
-2. 
 ```bash
 cd remote-react
 npm i
@@ -12,7 +11,7 @@ cd host-vue
 npm i 
 ```
 
-2. 启动项目
+1. 启动项目
 
 ```bash
 npm run serve
