@@ -7,7 +7,7 @@
 cd remote-react
 npm i
 
-cd host-vue
+cd host-vue-cli
 npm i 
 ```
 
