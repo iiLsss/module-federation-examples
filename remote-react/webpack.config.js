@@ -53,7 +53,7 @@ module.exports = {
       name: 'remote',
       filename: "remoteEntry.js",
       exposes: {
-        './List': './src/components/List/index.js',
+        'List': './src/components/List/index.js',
         './commonStyle': './src/index.css'
       },
       shared: {

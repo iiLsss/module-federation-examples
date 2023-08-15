@@ -8,7 +8,9 @@ module.exports = defineConfig({
   devServer:{
     port: '4000'
   },
+  
   configureWebpack: {
+    mode: 'none',
     plugins: [
       new ModuleFederationPlugin({
         name: 'saas',
